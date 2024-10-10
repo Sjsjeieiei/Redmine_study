@@ -1,5 +1,8 @@
 # REDMINE
 
+# Notion
+https://wind-dewberry-ca7.notion.site/REDMINE-263cac6ae54d4e578d060ba8f7b33438?pvs=4
+
 ## 소개
 - 웹 기반의 프로젝트 관리 및 이슈 트래킹 툴
 
